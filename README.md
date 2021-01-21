@@ -3,7 +3,8 @@
 ## bubble plot
 Depicts relative abundance of sequences (rows), or user-defined groups, in samples (columns)
 Size of bubble = relative abundance
-![bubble plot](https://pbs.twimg.com/media/EKzjDUDXYAE2v2D?format=jpg&name=medium)
+![bubble plot: genus](https://pbs.twimg.com/media/EsOON3sVkAATsBz?format=jpg&name=4096x4096)
+![bubble plot: functional group](https://pbs.twimg.com/media/EsOOHXeUwAAYdzA?format=jpg&name=4096x4096)
 
 
 ## ordination plot
